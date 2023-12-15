@@ -1,0 +1,10 @@
+.elemento {
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.elemento.clickeado {
+    background-color: lightcoral;
+}

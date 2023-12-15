@@ -1,0 +1,21 @@
+.gallery-container {
+    text-align: center;
+  }
+  
+  #imagenPrincipal {
+    max-width: 100%;
+    max-height: 400px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  body{
+    background-color: black;
+  }
+   
+  h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: ' Gothic Medium';
+  }
+  

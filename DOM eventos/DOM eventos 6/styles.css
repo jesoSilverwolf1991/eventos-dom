@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #000;
+}
+
+.draggable {
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  line-height: 100px;
+  cursor: move;
+  position: absolute;
+}
+
+.dragging {
+  opacity: 0.5; 
+}
